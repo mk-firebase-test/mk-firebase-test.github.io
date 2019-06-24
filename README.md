@@ -1,6 +1,6 @@
 # Mk Firebase Test
 
-To view a live demo, [click here](mk-firebase-test.github.io).
+To view a live demo, [click here](https://mk-firebase-test.github.io).
 
 For the theme repo I used, [click here](https://ryanfitzgerald.github.io/devportfolio/)
 
